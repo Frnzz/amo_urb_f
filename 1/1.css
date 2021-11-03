@@ -1,0 +1,30 @@
+
+h1 {
+    
+    text-align: center;
+    
+    
+}
+
+#contenedor {
+    
+    
+    background-color: #ccffff;
+    display:inherit;
+    margin: 0 auto; 
+    padding:3%;
+    width: 62%;
+    text-align: justify;
+    
+}
+
+img {
+    width: 40%;
+}
+
+#error {
+    
+    color: #ff3300;
+    
+    
+}

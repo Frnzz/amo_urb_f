@@ -1,0 +1,30 @@
+
+
+
+h1{
+        color:#333333;
+	border-top:2px solid #FFF;
+	border-bottom:2px solid #FFF;
+	padding-bottom:15px;
+	text-align:center;
+        
+}
+
+p{
+	color:#333333;
+	font-size:1em;
+        
+}
+
+#contenedor {
+    
+    
+    background-color: #ccffff;
+    display:inherit;
+    margin: 0 auto; 
+    padding:1%;
+    width: 60%;
+    text-align: justify;
+
+    
+}
